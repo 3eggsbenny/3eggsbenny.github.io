@@ -1,5 +1,4 @@
 # 3eggsbenny.github.io
-test github pages static site
 
 <!DOCTYPE html>
 <html>
