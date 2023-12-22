@@ -1,5 +1,3 @@
-# 3eggsbenny.github.io
-
 <!DOCTYPE html>
 <html>
 <head>
